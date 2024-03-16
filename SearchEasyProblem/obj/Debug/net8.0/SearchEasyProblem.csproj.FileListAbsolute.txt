@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\bin\Debug\net8.0\SearchEasyProblem.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\bin\Debug\net8.0\SearchEasyProblem.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\bin\Debug\net8.0\SearchEasyProblem.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\bin\Debug\net8.0\SearchEasyProblem.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\bin\Debug\net8.0\SearchEasyProblem.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\refint\SearchEasyProblem.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\SearchEasyProblem.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\SearchEasyProblem\SearchEasyProblem\obj\Debug\net8.0\ref\SearchEasyProblem.dll
